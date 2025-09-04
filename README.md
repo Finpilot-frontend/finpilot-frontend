@@ -64,4 +64,4 @@ The frontend connects with the FinPilot backend API.
 Make sure the backend server is running before starting the frontend.
 Update the API base URL in `services/api.js` if needed.
 
-# by Team Lumina 
+# By Team Lumina 
