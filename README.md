@@ -16,7 +16,7 @@ FinPilot is an AI-powered financial planning assistant that helps users create p
 
 ✅ Responsive design for mobile & desktop
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 
 React.js – UI framework
 
